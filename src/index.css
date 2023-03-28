@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;600;700&family=PT+Sans:wght@400;700&family=Poppins:wght@300;400;600;700&display=swap');
+
+:root{
+  /* --orange: #FFA645;  
+  --brown: #893446;   */
+  /* --white: #FFFFFF; */
+  --orange: #FFFFFF;
+  --brown: #FFFFFF 60 %; 
+}
+
+body{
+  margin: 0;
+}
+
+html{
+  box-sizing: border-box;
+  font-family: 'Fredoka', sans-serif;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: lighter;
+}
+
+
+
+ 
